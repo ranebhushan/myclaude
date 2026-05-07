@@ -6,6 +6,8 @@ Personal Claude Code configuration — settings, custom scripts, and assets.
 
 ```
 ~/.claude/
+├── .gitignore             # Excludes personal and runtime files from git
+├── README.md              # This file
 ├── settings.json          # Claude Code user settings
 ├── statusline.sh          # Custom status line script
 └── statusline-demo.png    # Status line screenshot
