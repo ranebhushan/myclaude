@@ -1,0 +1,23 @@
+# Conversation & session data
+history.jsonl
+projects/
+sessions/
+session-env/
+file-history/
+
+# Runtime & cache
+cache/
+backups/
+shell-snapshots/
+telemetry/
+downloads/
+ide/
+plans/
+
+# MCP & plugin runtime
+mcp-needs-auth-cache.json
+plugins/
+
+# Claude internal
+*.jsonl
+.last-cleanup
